@@ -81,7 +81,6 @@ vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmc
 vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
 vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
 vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_rawchipproc.so:system/lib/libmmcamera_rawchipproc.so \
-vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_rubik.so:system/lib/libmmcamera_rubik.so \
 vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
 vendor/htc/vendor_onesv/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
 vendor/htc/vendor_onesv/proprietary/lib/libmmipl.so:system/lib/lib/libmmipl.so \
@@ -120,9 +119,7 @@ vendor/htc/vendor_onesv/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
   vendor/htc/vendor_onesv/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
   vendor/htc/vendor_onesv/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
 vendor/htc/vendor_onesv/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
-vendor/htc/vendor_onesv/proprietary/lib/libmpl.so:system/lib/libmpl.so \
 vendor/htc/vendor_onesv/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-vendor/htc/vendor_onesv/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
 vendor/htc/vendor_onesv/proprietary/etc/firmware/fw_bcm4334.bin:system/etc/firmware/fw_bcm4334.bin \
 vendor/htc/vendor_onesv/proprietary/etc/firmware/fw_bcm4334_apsta.bin:system/etc/firmware/fw_bcm4334_apsta.bin \
 vendor/htc/vendor_onesv/proprietary/etc/firmware/fw_bcm4334_p2p.bin:system/etc/firmware/fw_bcm4334_p2p.bin 
